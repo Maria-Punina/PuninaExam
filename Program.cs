@@ -13,7 +13,7 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string[] array = new string[] { "Hello", "2" };
+string[] array = new string[] { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer scienece", "Russia", "Denmark", "Kazan" };
 string[] arrayNew = new string[array.Length];
 
 void TaskArr(string[] array, string[] arrayNew)
