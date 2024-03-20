@@ -1,0 +1,14 @@
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\bin\Debug\net7.0\PuninaExam.exe
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\bin\Debug\net7.0\PuninaExam.deps.json
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\bin\Debug\net7.0\PuninaExam.runtimeconfig.json
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\bin\Debug\net7.0\PuninaExam.dll
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\bin\Debug\net7.0\PuninaExam.pdb
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.AssemblyInfoInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.AssemblyInfo.cs
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.csproj.CoreCompileInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.dll
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\refint\PuninaExam.dll
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.pdb
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\PuninaExam.genruntimeconfig.cache
+C:\Users\punin\Desktop\GeekBrains\Экзамен 1\PuninaExam\obj\Debug\net7.0\ref\PuninaExam.dll
